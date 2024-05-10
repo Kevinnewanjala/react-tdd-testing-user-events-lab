@@ -88,8 +88,8 @@ function App() {
 
   return (
     <main>
-      <h1>Hi, I'm (your name)</h1>
-      <img alt="My profile pic" src="https://via.placeholder.com/350" />
+      <h1>Hi, I'm Kevin</h1>
+      <img alt="My profile pic" src="https://scontent-mba1-1.xx.fbcdn.net/v/t39.30808-6/440780221_2220281378326738_8294905539927201369_n.jpg?stp=c0.96.715.715a_dst-jpg_s552x414&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHKvmScZaGuO3nYBRG792pJ6orR0JX2MOfqitHQlfYw57bhZdAAXmq9Or2Pbic4WWHAnvNrG2LkYlv-wJmjvzeH&_nc_ohc=DKHt6zJuussQ7kNvgFvERxk&_nc_ht=scontent-mba1-1.xx&oh=00_AYDy6-TnilwcH9BF8j6qqz-LrnilZpcG7vVusc1jLuWpRQ&oe=66439F92" />
       <h2>About Me</h2>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -103,8 +103,8 @@ function App() {
       {showMessage ? displayMessage : displayForm}
 
       <div>
-        <a href="https://github.com">GitHub</a>
-        <a href="https://linkedin.com">LinkedIn</a>
+        <a href="https://github.com/">GitHub</a>
+        <a href="https://www.linkedin.com/feed/">LinkedIn</a>
       </div>
     </main>
   );
